@@ -3,3 +3,6 @@ logo-wordmark.png
   - magic link email template
   - notifications v2 email template
 
+robot.png
+- Postmark
+  - notifications v2 email template (when a notification is from the system)
