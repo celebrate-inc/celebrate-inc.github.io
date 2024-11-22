@@ -1,0 +1,5 @@
+logo-wordmark.png
+- Postmark:
+  - magic link email template
+  - notifications v2 email template
+
