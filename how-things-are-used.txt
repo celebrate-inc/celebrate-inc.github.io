@@ -4,5 +4,6 @@ logo-wordmark.png
   - notifications v2 email template
 
 robot.png
-- Postmark
-  - notifications v2 email template (when a notification is from the system)
+- used as an avatar image source URL for changes made by the system
+  - (probably should just be hosted by the v2 app)
+
