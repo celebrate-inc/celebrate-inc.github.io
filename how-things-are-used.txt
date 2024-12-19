@@ -3,6 +3,6 @@ logo-wordmark.png
   - magic link email template
   - notifications v2 email template
 
-instagram.svg, robot.png, tiktok.svg
+instagram.png, robot.png, tiktok.png
 - used as an avatar image source URL for changes made by the system
   - (probably should just be hosted by the v2 app)
